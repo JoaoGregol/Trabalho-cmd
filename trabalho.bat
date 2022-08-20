@@ -14,6 +14,8 @@ echo  4. Painel de Controle
 echo  5. Como beber agua.      
 echo  6. Faca uma conexao no meu linkedin        
 echo  7. Finalizar
+echo --version - consultar a versao
+echo --help - menu de comandos
 echo.
          
 echo -------------------------------
